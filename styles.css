@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#leafs {
+    background-image: url('halie-west-25xggax4bSA-unsplash.jpg');
+    width: 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
