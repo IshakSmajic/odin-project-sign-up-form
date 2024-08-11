@@ -10,4 +10,21 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
+    position: relative;
+}
+
+#logo-text {
+    color: white;
+    background-color: rgba(128, 128, 128, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    font-size: 80px;
+    margin: 0 auto;
+
+}
+
+#logo-text img {
+    width: 20%;
 }
